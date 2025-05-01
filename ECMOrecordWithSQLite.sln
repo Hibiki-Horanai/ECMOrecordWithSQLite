@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECMOrecordWithSQLite", "ECMOrecordWithSQLite\ECMOrecordWithSQLite.csproj", "{BEE13E69-5C61-4DEF-BED8-948A980A4254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE13E69-5C61-4DEF-BED8-948A980A4254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE13E69-5C61-4DEF-BED8-948A980A4254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE13E69-5C61-4DEF-BED8-948A980A4254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE13E69-5C61-4DEF-BED8-948A980A4254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D0D7F1D-B7E9-4191-89B2-09C46D9DF7D8}
+	EndGlobalSection
+EndGlobal
